@@ -21,7 +21,10 @@
     * Mapeamento do esquema ER para Relacional
     * Definição do script SQL para a criação do esquema de banco de dados 
     * Persistência de dados para testes
-    * Recuperações com queries SQL
+    * Recuperações com queries SQL.
     
-    ![alt text](oficina-erd.png)
+    
+![alt text](oficina-erd.png)
+    
+    
     
