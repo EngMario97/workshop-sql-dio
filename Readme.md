@@ -23,3 +23,5 @@
     * Persistência de dados para testes
     * Recuperações com queries SQL
     
+    ![alt text](oficina-erd.png)
+    
